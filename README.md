@@ -14,3 +14,4 @@
 - zonecraft - Morgan [Better version of verusairlines](https://www.reddit.com/r/minecraftclients/comments/xz19ck/what_anticheat_does_zonecraft_use/)    
 - BlocksMC - Custom NCP + Verus
 - PvP Legacy - Grim
+- Minemen - Anti Gaming Chair
