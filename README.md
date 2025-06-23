@@ -3,7 +3,7 @@
 - Pikanetwork - Polar   
 - Jartexnetwork - Polar   
 - ColdPvP - Verus   
-- CubeCraft - Sentinel   
+   
 - Hycraft - Polar   
 - Mineplex - GWEN   
 - Kokscraft - Custom   
@@ -23,4 +23,5 @@
 # 1.21 Servers
 - Donutsmp
 - GommeHD - Intave
-- Hypixel - Watchdog (Prediction, NCP based) 
+- Hypixel - Watchdog (Prediction, NCP based)
+- CubeCraft - Sentinel
